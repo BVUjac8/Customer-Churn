@@ -9,7 +9,7 @@ A visualization of customer churning.
 5. [FAQs](#faqs)
 ### General Info
 ***
-
+Determining how to predict and prevent customer churn using data science.
 ### Customer churn
 ![Customer churn](https://tse3.mm.bing.net/th?id=OIP.2W5XRUIaame1zk_afxZ53QHaEK&pid=Api&P=0&w=326&h=184)
 ### Technologies
@@ -26,4 +26,4 @@ No collaboration can be made on this project.
 ### FAQs
 ***
 1. **Why is a visualization of customer churning important to perform?**
-_ _
+_Determining how to predict and prevent customer churn using data science is beneficial to know when industries are trying to retain current consumers rather than lose them._
