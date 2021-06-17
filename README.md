@@ -10,8 +10,8 @@ A visualization of customer churning.
 ### General Info
 ***
 
-### Hawks
-![Hakws](https://tse3.mm.bing.net/th?id=OIP.2W5XRUIaame1zk_afxZ53QHaEK&pid=Api&P=0&w=326&h=184)
+### Customer churn
+![Customer churn](https://tse3.mm.bing.net/th?id=OIP.2W5XRUIaame1zk_afxZ53QHaEK&pid=Api&P=0&w=326&h=184)
 ### Technologies
 ***
 * [Microsoft PowerPoint](https://www.microsoft.com/en-us/): Any version
